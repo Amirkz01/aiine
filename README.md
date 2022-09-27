@@ -1,6 +1,6 @@
 ### Hello I am Amirr 👋 
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=Amirr&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/aiinne&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@amirbot_01&github=Amirr&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Amirr"/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=Amirr&description=Hi,%20i%27m%20aine%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/Amrbot01&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@amirbot_01&github=Amirr&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20Amirr"/>
 
 ------
 
